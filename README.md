@@ -1,2 +1,2 @@
 # CypherBox
-A small Qt application that handles coding / decoding text in a Caesar cypher.
+A small PyQt application that handles ecoding / decoding text in a Caesar cypher.
